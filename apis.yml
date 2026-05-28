@@ -1,0 +1,32 @@
+aid: simkl
+name: Simkl
+description: "Movie, TV and Anime data"
+url: https://simkl.docs.apiary.io
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Video"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Video
+  - Public APIs
+apis:
+  - name: Simkl
+    description: "Movie, TV and Anime data"
+    humanURL: https://simkl.docs.apiary.io
+    baseURL: https://simkl.docs.apiary.io
+    tags:
+      - Video
+    properties:
+      - type: Documentation
+        url: https://simkl.docs.apiary.io
+common:
+  - type: Website
+    url: https://simkl.docs.apiary.io
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
