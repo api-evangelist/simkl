@@ -39,7 +39,6 @@ apis:
   - name: Simkl
     description: "Movie, TV and Anime data"
     humanURL: https://simkl.docs.apiary.io
-    baseURL: https://simkl.docs.apiary.io
     tags:
       - Video
     properties:
